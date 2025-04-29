@@ -1,9 +1,6 @@
 # 🌟 **DegStreamTri**
 # 🔍 Deep Dive into Triangle Counting with Degeneracy
 
-[![GitHub stars](https://img.shields.io/github/stars/your-username/DegStreamTri.svg?style=social&label=Star)](https://github.com/your-username/DegStreamTri)
-[![GitHub forks](https://img.shields.io/github/forks/your-username/DegStreamTri.svg?style=social&label=Fork)](https://github.com/your-username/DegStreamTri)
-
 Welcome to **DegStreamTri**—my semester-long adventure into the fascinating world of graph streams and triangle counting! This repository chronicles my deep dive into the research article *"How the Degeneracy Helps for Triangle Counting in Graph Streams"* by Suman K. Bera and C. Seshadhri. As a computer science student, I’m here to unpack this cutting-edge work, master its concepts, and craft a compelling presentation. Expect detailed notes, insights, and progress updates as I go!
 
 ---
