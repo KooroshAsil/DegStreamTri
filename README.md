@@ -133,10 +133,10 @@ My toolkit so far:
 | Milestone            | Status       | Notes                       |
 |----------------------|--------------|-----------------------------|
 | First Read           | ✅ Done      | Key ideas flagged           |
-| Concept Deep-Dive    | 🛠 Ongoing   | Degeneracy is tricky!       |
-| Notes Polish         | ⏳ Next Up   | Building explanations       |
-| Slide Draft          | ⏳ Next Up   | Mid-semester target         |
-| Final Presentation   | ⏳ Later     | Endgame goal                |
+| Concept Deep-Dive    | ✅ Done   | Degeneracy is tricky!       |
+| Notes Polish         | ✅ Done   | Building explanations       |
+| Slide Draft          | ✅ Done   | Mid-semester target         |
+| Final Presentation   | ✅ Done     | Endgame goal                |
 
 ---
 
