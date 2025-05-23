@@ -120,13 +120,13 @@ This project could launch me toward:
 
 My toolkit so far:
 
-- **The Article**: [How the Degeneracy Helps...](https://arxiv.org/abs/2003.13151)
-- **Graph 101**: [Degeneracy Explained](https://en.wikipedia.org/wiki/Degeneracy_(graph_theory))
-- **Streaming Intro**: [Streaming Survey](https://arxiv.org/abs/1807.04262)
-- **Probability Refresher**: [Concentration Bounds](https://en.wikipedia.org/wiki/Concentration_inequality)
-- **My Notes**: Check `/notes/` for the good stuff.
+- **The Article 📄**: The article analayesd and viewd in detail.
+- **Graph 101 🕸️**: [Degeneracy Explained](https://en.wikipedia.org/wiki/Degeneracy_(graph_theory))
+- **Streaming Intro 🌊**: [Streaming Survey](https://arxiv.org/abs/1807.04262)
+- **Probability Refresher 🎲**: [Concentration Bounds](https://en.wikipedia.org/wiki/Concentration_inequality)
+- **My Notes 📝**: Check `/My Notes/` for the hot stuff.
+- **Dedications🙇‍♂️**: Check `/Dedications/` for the works done in the area.
 
----
 
 ## ⏳ **Progress Dashboard**
 
