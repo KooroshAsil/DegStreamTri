@@ -126,6 +126,7 @@ My toolkit so far:
 - **Probability Refresher 🎲**: [Concentration Bounds](https://en.wikipedia.org/wiki/Concentration_inequality)
 - **My Notes 📝**: Check `/My Notes/` for the hot stuff.
 - **Dedications🙇‍♂️**: Check `/Dedications/` for the works done in the area.
+- **Presentation 📽️**: Pdf for presentation in class. 
 
 
 ## ⏳ **Progress Dashboard**
